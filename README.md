@@ -19,6 +19,7 @@
 ### Skirtingų flag'ų tikrinimas su 10M class
 | Flag        | Time       |   .exe size |
 |-------------|------------|-------------|
+| Be flag'o   | 176.17     | 500KB       |
 | -O1         | 103.56     | 321KB       |
 | -O2         | 91.58      | 317KB       |
 | -O3         | 85.22      | 328KB       |
