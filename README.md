@@ -16,7 +16,7 @@
 | Išskirstymas| 0.17       | 0.30        |
 | Išvedimas   | 4.64       | 7.44        |
 
-### Skirtingų flag'ų tikrinimas su 10M
+### Skirtingų flag'ų tikrinimas su 10M class
 | Flag        | Time       |   .exe size |
 |-------------|------------|-------------|
 | -O1         | 103.56     | 321KB       |
