@@ -1,3 +1,6 @@
 # Objektinis-programavimas2
 ## V1.2
-*Prideta "Rule Of Five"*
+*Pridėta "Rule Of Five"*
+
+## V1.5
+*Pridėta abstakti klasė "žmogus"
