@@ -3,4 +3,4 @@
 *Pridėta "Rule Of Five"*
 
 ## V1.5
-*Pridėta abstrakti klasė "žmogus"
+*Pridėta abstrakti klasė "žmogus"*
