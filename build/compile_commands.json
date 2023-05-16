@@ -1,0 +1,116 @@
+[
+{
+  "directory": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/mytests.dir/includes_CXX.rsp -g -o CMakeFiles\\mytests.dir\\mytests.cpp.obj -c \"C:\\Users\\dovyd\\OneDrive\\Stalinis kompiuteris\\Uni\\Uni\\2 semestras\\objektinis programavimas\\pirmas darbas\\V2.0\\mytests.cpp\"",
+  "file": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/mytests.cpp",
+  "output": "CMakeFiles/mytests.dir/mytests.cpp.obj"
+},
+{
+  "directory": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/build/googletest/googlemock",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/gmock.dir/includes_CXX.rsp -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c \"C:\\Users\\dovyd\\OneDrive\\Stalinis kompiuteris\\Uni\\Uni\\2 semestras\\objektinis programavimas\\pirmas darbas\\V2.0\\googletest\\googlemock\\src\\gmock-all.cc\"",
+  "file": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/googletest/googlemock/src/gmock-all.cc",
+  "output": "googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj"
+},
+{
+  "directory": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/build/googletest/googlemock",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/gmock_main.dir/includes_CXX.rsp -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c \"C:\\Users\\dovyd\\OneDrive\\Stalinis kompiuteris\\Uni\\Uni\\2 semestras\\objektinis programavimas\\pirmas darbas\\V2.0\\googletest\\googlemock\\src\\gmock_main.cc\"",
+  "file": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/googletest/googlemock/src/gmock_main.cc",
+  "output": "googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj"
+},
+{
+  "directory": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/build/googletest/googletest",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/gtest.dir/includes_CXX.rsp -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c \"C:\\Users\\dovyd\\OneDrive\\Stalinis kompiuteris\\Uni\\Uni\\2 semestras\\objektinis programavimas\\pirmas darbas\\V2.0\\googletest\\googletest\\src\\gtest-all.cc\"",
+  "file": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/googletest/googletest/src/gtest-all.cc",
+  "output": "googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj"
+},
+{
+  "directory": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/build/googletest/googletest",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/gtest_main.dir/includes_CXX.rsp -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c \"C:\\Users\\dovyd\\OneDrive\\Stalinis kompiuteris\\Uni\\Uni\\2 semestras\\objektinis programavimas\\pirmas darbas\\V2.0\\googletest\\googletest\\src\\gtest_main.cc\"",
+  "file": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/googletest/googletest/src/gtest_main.cc",
+  "output": "googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj"
+},
+{
+  "directory": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/build/googletest/googletest",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/sample1_unittest.dir/includes_CXX.rsp -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -o CMakeFiles\\sample1_unittest.dir\\samples\\sample1_unittest.cc.obj -c \"C:\\Users\\dovyd\\OneDrive\\Stalinis kompiuteris\\Uni\\Uni\\2 semestras\\objektinis programavimas\\pirmas darbas\\V2.0\\googletest\\googletest\\samples\\sample1_unittest.cc\"",
+  "file": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/googletest/googletest/samples/sample1_unittest.cc",
+  "output": "googletest/googletest/CMakeFiles/sample1_unittest.dir/samples/sample1_unittest.cc.obj"
+},
+{
+  "directory": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/build/googletest/googletest",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/sample1_unittest.dir/includes_CXX.rsp -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -o CMakeFiles\\sample1_unittest.dir\\samples\\sample1.cc.obj -c \"C:\\Users\\dovyd\\OneDrive\\Stalinis kompiuteris\\Uni\\Uni\\2 semestras\\objektinis programavimas\\pirmas darbas\\V2.0\\googletest\\googletest\\samples\\sample1.cc\"",
+  "file": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/googletest/googletest/samples/sample1.cc",
+  "output": "googletest/googletest/CMakeFiles/sample1_unittest.dir/samples/sample1.cc.obj"
+},
+{
+  "directory": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/build/googletest/googletest",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/sample2_unittest.dir/includes_CXX.rsp -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -o CMakeFiles\\sample2_unittest.dir\\samples\\sample2_unittest.cc.obj -c \"C:\\Users\\dovyd\\OneDrive\\Stalinis kompiuteris\\Uni\\Uni\\2 semestras\\objektinis programavimas\\pirmas darbas\\V2.0\\googletest\\googletest\\samples\\sample2_unittest.cc\"",
+  "file": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/googletest/googletest/samples/sample2_unittest.cc",
+  "output": "googletest/googletest/CMakeFiles/sample2_unittest.dir/samples/sample2_unittest.cc.obj"
+},
+{
+  "directory": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/build/googletest/googletest",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/sample2_unittest.dir/includes_CXX.rsp -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -o CMakeFiles\\sample2_unittest.dir\\samples\\sample2.cc.obj -c \"C:\\Users\\dovyd\\OneDrive\\Stalinis kompiuteris\\Uni\\Uni\\2 semestras\\objektinis programavimas\\pirmas darbas\\V2.0\\googletest\\googletest\\samples\\sample2.cc\"",
+  "file": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/googletest/googletest/samples/sample2.cc",
+  "output": "googletest/googletest/CMakeFiles/sample2_unittest.dir/samples/sample2.cc.obj"
+},
+{
+  "directory": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/build/googletest/googletest",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/sample3_unittest.dir/includes_CXX.rsp -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -o CMakeFiles\\sample3_unittest.dir\\samples\\sample3_unittest.cc.obj -c \"C:\\Users\\dovyd\\OneDrive\\Stalinis kompiuteris\\Uni\\Uni\\2 semestras\\objektinis programavimas\\pirmas darbas\\V2.0\\googletest\\googletest\\samples\\sample3_unittest.cc\"",
+  "file": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/googletest/googletest/samples/sample3_unittest.cc",
+  "output": "googletest/googletest/CMakeFiles/sample3_unittest.dir/samples/sample3_unittest.cc.obj"
+},
+{
+  "directory": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/build/googletest/googletest",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/sample4_unittest.dir/includes_CXX.rsp -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -o CMakeFiles\\sample4_unittest.dir\\samples\\sample4_unittest.cc.obj -c \"C:\\Users\\dovyd\\OneDrive\\Stalinis kompiuteris\\Uni\\Uni\\2 semestras\\objektinis programavimas\\pirmas darbas\\V2.0\\googletest\\googletest\\samples\\sample4_unittest.cc\"",
+  "file": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/googletest/googletest/samples/sample4_unittest.cc",
+  "output": "googletest/googletest/CMakeFiles/sample4_unittest.dir/samples/sample4_unittest.cc.obj"
+},
+{
+  "directory": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/build/googletest/googletest",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/sample4_unittest.dir/includes_CXX.rsp -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -o CMakeFiles\\sample4_unittest.dir\\samples\\sample4.cc.obj -c \"C:\\Users\\dovyd\\OneDrive\\Stalinis kompiuteris\\Uni\\Uni\\2 semestras\\objektinis programavimas\\pirmas darbas\\V2.0\\googletest\\googletest\\samples\\sample4.cc\"",
+  "file": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/googletest/googletest/samples/sample4.cc",
+  "output": "googletest/googletest/CMakeFiles/sample4_unittest.dir/samples/sample4.cc.obj"
+},
+{
+  "directory": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/build/googletest/googletest",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/sample5_unittest.dir/includes_CXX.rsp -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -o CMakeFiles\\sample5_unittest.dir\\samples\\sample5_unittest.cc.obj -c \"C:\\Users\\dovyd\\OneDrive\\Stalinis kompiuteris\\Uni\\Uni\\2 semestras\\objektinis programavimas\\pirmas darbas\\V2.0\\googletest\\googletest\\samples\\sample5_unittest.cc\"",
+  "file": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/googletest/googletest/samples/sample5_unittest.cc",
+  "output": "googletest/googletest/CMakeFiles/sample5_unittest.dir/samples/sample5_unittest.cc.obj"
+},
+{
+  "directory": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/build/googletest/googletest",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/sample5_unittest.dir/includes_CXX.rsp -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -o CMakeFiles\\sample5_unittest.dir\\samples\\sample1.cc.obj -c \"C:\\Users\\dovyd\\OneDrive\\Stalinis kompiuteris\\Uni\\Uni\\2 semestras\\objektinis programavimas\\pirmas darbas\\V2.0\\googletest\\googletest\\samples\\sample1.cc\"",
+  "file": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/googletest/googletest/samples/sample1.cc",
+  "output": "googletest/googletest/CMakeFiles/sample5_unittest.dir/samples/sample1.cc.obj"
+},
+{
+  "directory": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/build/googletest/googletest",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/sample6_unittest.dir/includes_CXX.rsp -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -o CMakeFiles\\sample6_unittest.dir\\samples\\sample6_unittest.cc.obj -c \"C:\\Users\\dovyd\\OneDrive\\Stalinis kompiuteris\\Uni\\Uni\\2 semestras\\objektinis programavimas\\pirmas darbas\\V2.0\\googletest\\googletest\\samples\\sample6_unittest.cc\"",
+  "file": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/googletest/googletest/samples/sample6_unittest.cc",
+  "output": "googletest/googletest/CMakeFiles/sample6_unittest.dir/samples/sample6_unittest.cc.obj"
+},
+{
+  "directory": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/build/googletest/googletest",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/sample7_unittest.dir/includes_CXX.rsp -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -o CMakeFiles\\sample7_unittest.dir\\samples\\sample7_unittest.cc.obj -c \"C:\\Users\\dovyd\\OneDrive\\Stalinis kompiuteris\\Uni\\Uni\\2 semestras\\objektinis programavimas\\pirmas darbas\\V2.0\\googletest\\googletest\\samples\\sample7_unittest.cc\"",
+  "file": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/googletest/googletest/samples/sample7_unittest.cc",
+  "output": "googletest/googletest/CMakeFiles/sample7_unittest.dir/samples/sample7_unittest.cc.obj"
+},
+{
+  "directory": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/build/googletest/googletest",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/sample8_unittest.dir/includes_CXX.rsp -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -o CMakeFiles\\sample8_unittest.dir\\samples\\sample8_unittest.cc.obj -c \"C:\\Users\\dovyd\\OneDrive\\Stalinis kompiuteris\\Uni\\Uni\\2 semestras\\objektinis programavimas\\pirmas darbas\\V2.0\\googletest\\googletest\\samples\\sample8_unittest.cc\"",
+  "file": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/googletest/googletest/samples/sample8_unittest.cc",
+  "output": "googletest/googletest/CMakeFiles/sample8_unittest.dir/samples/sample8_unittest.cc.obj"
+},
+{
+  "directory": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/build/googletest/googletest",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/sample9_unittest.dir/includes_CXX.rsp -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -o CMakeFiles\\sample9_unittest.dir\\samples\\sample9_unittest.cc.obj -c \"C:\\Users\\dovyd\\OneDrive\\Stalinis kompiuteris\\Uni\\Uni\\2 semestras\\objektinis programavimas\\pirmas darbas\\V2.0\\googletest\\googletest\\samples\\sample9_unittest.cc\"",
+  "file": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/googletest/googletest/samples/sample9_unittest.cc",
+  "output": "googletest/googletest/CMakeFiles/sample9_unittest.dir/samples/sample9_unittest.cc.obj"
+},
+{
+  "directory": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/build/googletest/googletest",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/sample10_unittest.dir/includes_CXX.rsp -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -o CMakeFiles\\sample10_unittest.dir\\samples\\sample10_unittest.cc.obj -c \"C:\\Users\\dovyd\\OneDrive\\Stalinis kompiuteris\\Uni\\Uni\\2 semestras\\objektinis programavimas\\pirmas darbas\\V2.0\\googletest\\googletest\\samples\\sample10_unittest.cc\"",
+  "file": "C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/googletest/googletest/samples/sample10_unittest.cc",
+  "output": "googletest/googletest/CMakeFiles/sample10_unittest.dir/samples/sample10_unittest.cc.obj"
+}
+]

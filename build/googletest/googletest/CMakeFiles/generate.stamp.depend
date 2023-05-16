@@ -1,0 +1,18 @@
+# CMake generation dependency list for this directory.
+C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/googletest/googletest/CMakeLists.txt
+C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/googletest/googletest/cmake/Config.cmake.in
+C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/googletest/googletest/cmake/gtest.pc.in
+C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/googletest/googletest/cmake/gtest_main.pc.in
+C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/googletest/googletest/cmake/internal_utils.cmake
+C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/cmake-3.26.3-windows-x86_64/share/cmake-3.26/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in
+C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/cmake-3.26.3-windows-x86_64/share/cmake-3.26/Modules/CMakePackageConfigHelpers.cmake
+C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/cmake-3.26.3-windows-x86_64/share/cmake-3.26/Modules/CheckCSourceCompiles.cmake
+C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/cmake-3.26.3-windows-x86_64/share/cmake-3.26/Modules/CheckIncludeFile.cmake
+C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/cmake-3.26.3-windows-x86_64/share/cmake-3.26/Modules/CheckLibraryExists.cmake
+C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/cmake-3.26.3-windows-x86_64/share/cmake-3.26/Modules/FindPackageHandleStandardArgs.cmake
+C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/cmake-3.26.3-windows-x86_64/share/cmake-3.26/Modules/FindPackageMessage.cmake
+C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/cmake-3.26.3-windows-x86_64/share/cmake-3.26/Modules/FindPython.cmake
+C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/cmake-3.26.3-windows-x86_64/share/cmake-3.26/Modules/FindPython/Support.cmake
+C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/cmake-3.26.3-windows-x86_64/share/cmake-3.26/Modules/FindThreads.cmake
+C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/cmake-3.26.3-windows-x86_64/share/cmake-3.26/Modules/Internal/CheckSourceCompiles.cmake
+C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/cmake-3.26.3-windows-x86_64/share/cmake-3.26/Modules/WriteBasicConfigVersionFile.cmake

@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\dovyd\OneDrive\Stalinis kompiuteris\Uni\Uni\2 semestras\objektinis programavimas\pirmas darbas\V2.0\MySetup\Dll\dllmain.cpp(72,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dovyd\OneDrive\Stalinis kompiuteris\Uni\Uni\2 semestras\objektinis programavimas\pirmas darbas\V2.0\MySetup\Dll\dllmain.cpp(130,23): warning C4018: '<': signed/unsigned mismatch
+     Creating library C:\Users\dovyd\OneDrive\Stalinis kompiuteris\Uni\Uni\2 semestras\objektinis programavimas\pirmas darbas\V2.0\MySetup\Debug\Dll.lib and object C:\Users\dovyd\OneDrive\Stalinis kompiuteris\Uni\Uni\2 semestras\objektinis programavimas\pirmas darbas\V2.0\MySetup\Debug\Dll.exp
+  Dll.vcxproj -> C:\Users\dovyd\OneDrive\Stalinis kompiuteris\Uni\Uni\2 semestras\objektinis programavimas\pirmas darbas\V2.0\MySetup\Debug\Dll.dll

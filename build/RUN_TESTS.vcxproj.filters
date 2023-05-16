@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\dovyd\OneDrive\Stalinis kompiuteris\Uni\Uni\2 semestras\objektinis programavimas\pirmas darbas\V2.0\build\CMakeFiles\9e8e5ad2df3718c8b683095eb0da7190\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B142A133-4477-300D-A0C2-D3B0287D63E7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

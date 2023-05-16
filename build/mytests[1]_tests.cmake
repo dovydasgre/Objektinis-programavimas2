@@ -1,0 +1,5 @@
+add_test([=[studentas.ValueAssignCheck]=]  [==[C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/build/mytests.exe]==] [==[--gtest_filter=studentas.ValueAssignCheck]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[studentas.ValueAssignCheck]=]  PROPERTIES WORKING_DIRECTORY [==[C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/build]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test([=[studentas.TestPazymiuSk]=]  [==[C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/build/mytests.exe]==] [==[--gtest_filter=studentas.TestPazymiuSk]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[studentas.TestPazymiuSk]=]  PROPERTIES WORKING_DIRECTORY [==[C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/build]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+set(  mytests_TESTS studentas.ValueAssignCheck studentas.TestPazymiuSk)

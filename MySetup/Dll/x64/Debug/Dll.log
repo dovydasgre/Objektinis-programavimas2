@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\dovyd\OneDrive\Stalinis kompiuteris\Uni\Uni\2 semestras\objektinis programavimas\pirmas darbas\V2.0\MySetup\Dll\dllmain.cpp(9,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dovyd\OneDrive\Stalinis kompiuteris\Uni\Uni\2 semestras\objektinis programavimas\pirmas darbas\V2.0\MySetup\Dll\dllmain.cpp(14,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dovyd\OneDrive\Stalinis kompiuteris\Uni\Uni\2 semestras\objektinis programavimas\pirmas darbas\V2.0\MySetup\Dll\dllmain.cpp(149,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+     Creating library C:\Users\dovyd\OneDrive\Stalinis kompiuteris\Uni\Uni\2 semestras\objektinis programavimas\pirmas darbas\V2.0\MySetup\x64\Debug\Dll.lib and object C:\Users\dovyd\OneDrive\Stalinis kompiuteris\Uni\Uni\2 semestras\objektinis programavimas\pirmas darbas\V2.0\MySetup\x64\Debug\Dll.exp
+  Dll.vcxproj -> C:\Users\dovyd\OneDrive\Stalinis kompiuteris\Uni\Uni\2 semestras\objektinis programavimas\pirmas darbas\V2.0\MySetup\x64\Debug\Dll.dll

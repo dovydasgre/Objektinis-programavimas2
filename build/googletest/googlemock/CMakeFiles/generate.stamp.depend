@@ -1,0 +1,10 @@
+# CMake generation dependency list for this directory.
+C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/googletest/googlemock/CMakeLists.txt
+C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/googletest/googlemock/cmake/gmock.pc.in
+C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/Uni/2 semestras/objektinis programavimas/pirmas darbas/V2.0/googletest/googlemock/cmake/gmock_main.pc.in
+C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/cmake-3.26.3-windows-x86_64/share/cmake-3.26/Modules/CheckCSourceCompiles.cmake
+C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/cmake-3.26.3-windows-x86_64/share/cmake-3.26/Modules/CheckIncludeFile.cmake
+C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/cmake-3.26.3-windows-x86_64/share/cmake-3.26/Modules/CheckLibraryExists.cmake
+C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/cmake-3.26.3-windows-x86_64/share/cmake-3.26/Modules/FindPackageHandleStandardArgs.cmake
+C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/cmake-3.26.3-windows-x86_64/share/cmake-3.26/Modules/FindPackageMessage.cmake
+C:/Users/dovyd/OneDrive/Stalinis kompiuteris/Uni/cmake-3.26.3-windows-x86_64/share/cmake-3.26/Modules/FindThreads.cmake
